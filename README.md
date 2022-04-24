@@ -1,2 +1,2 @@
 # oasis-infobyte
-oasis infobyte internship tasks..
+oasis infobyte internship Java Development
